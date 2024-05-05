@@ -1,0 +1,24 @@
+/* rem default size id 16px */
+/* we can override that */
+/* rem all ways based on the root element not parent element */
+html{
+    font-size: 120px;
+}
+.re{
+    font-size: 1rem;
+}
+.ab{
+    font-size: 16px;
+}
+div h1{
+    font-size: 16px;
+}
+
+
+/* not appicable this */
+/* div{
+    font-size: 22px;
+}
+h1{
+    font-size: 2 rem;
+} */
