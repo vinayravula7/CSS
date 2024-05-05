@@ -1,0 +1,12 @@
+p::before{
+    content: "The ";
+    color: red;
+    font-size: 20px;
+    text-decoration: underline;
+}
+p::after{
+    content: "End ";
+    color: red;
+    font-size: 20px;
+    text-decoration: underline;
+}
