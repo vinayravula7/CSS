@@ -1,0 +1,9 @@
+.one{
+    text-decoration: none;
+}
+.two{
+    text-decoration: overline;
+}
+.three{
+    text-decoration: line-through;
+}
