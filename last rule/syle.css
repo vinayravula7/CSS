@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+}
+
+/* in this overide the values ,thid is called last rule */
+h1{
+    background-color: black;
+    color: blueviolet;
+}
