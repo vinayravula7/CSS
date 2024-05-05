@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 100vh;
+    color: red;
+    font-weight: 900;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one{
+    background: url("../images/generation\ \(1\).png");
+    background-position: 50% 50%;
+    /* als0 use center */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.two{
+    background: url("../images/generation\ \(2\).png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+.three{
+    background:url("../images/laptop.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
