@@ -1,0 +1,12 @@
+h1{
+    color: green;
+    background-color: black;
+    /* h1 is inline tag it take full width, so i mention take 50% width, thats why it take 50% width  */
+
+    /* maximum take 50% height, it take height based on text , maximum take 50% height */
+    /* max-width: 50%; */
+
+
+    /* minimum 50% untundhi, thaggadhu kani entha ina peruguthundhi */
+    min-width: 50%;
+}
