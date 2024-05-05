@@ -1,0 +1,12 @@
+.one:link{
+    color: black;
+}
+a:visited{
+    color: red;
+}
+.three:active{
+    color: green;
+}
+a{
+    font-size: 3rem;
+}
