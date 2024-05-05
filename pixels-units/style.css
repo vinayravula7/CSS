@@ -1,0 +1,7 @@
+h1{
+    /* px is fixes size for both small and big screen */
+   font-size: 30px;
+   width: 100px;
+   background-color: rgb(255, 9, 9);
+   height: 200px;
+}
