@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    width: auto;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.one{
+    background: url(../images/generation\ \(1\).png); 
+}
+.two{
+    background: url("../images/IMG_20240221_202429_229.jpg");
+    
+}
+.three{
+    background: url("../images/dining\ table.jpg");
+     background-position: center; 
+    background-size: cover; 
+}
+.four{
+    background: url("../images/generation\ \(3\).png");
+    background-position: center;
+    background-size: cover; 
+}
