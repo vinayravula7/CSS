@@ -1,0 +1,17 @@
+h1{
+    /* appling color to the h1 tag */
+    color: red;
+}
+h1{
+    /* appling background color to the h1 tag */
+    background-color: lightgreen;
+}
+.rgb h1{
+    color: rgb(0,0,250);
+    /* giving opacity also*/
+    background-color: rgba(0,0,0,0.5);
+}
+.hexa h1{
+    color: #00ff00;
+    background-color: #000;
+}
