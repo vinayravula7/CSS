@@ -1,0 +1,17 @@
+h1{
+    background-color: lightcoral;
+}
+.none{
+    display: none;
+    /* completely remove from layout */
+}
+.visibility{
+    visibility: hidden;
+    /* element is in the layout but not visible */
+}
+.op-5{
+    opacity: 0.5;
+}
+.op-1{
+    opacity: 1;
+}
