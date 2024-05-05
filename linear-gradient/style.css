@@ -1,0 +1,14 @@
+div{
+    height: 250px;
+    width: 250px;
+}
+.one{
+    background: linear-gradient(red,green);
+    /* background: linear-gradient(to top, black ,yellow); */
+}
+.two{
+    background: linear-gradient(270deg , black ,yellow); 
+}
+.three{
+    background: linear-gradient(to top, rgb(18, 182, 207) ,rgb(199, 15, 169)); 
+}
