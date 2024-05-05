@@ -1,0 +1,28 @@
+body{
+    position: absolute;
+}
+.one{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: green;
+    z-index: 4;
+}
+.two{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(128, 60, 0);
+    margin-top: -40px;
+    margin-left: 40px;
+    z-index: 4;
+}
+.three{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(53, 0, 128);
+    margin-top: -40px;
+    margin-left: 80px;
+    z-index: 7;
+}
