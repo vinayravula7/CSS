@@ -1,0 +1,20 @@
+.facebook{
+    background-color: rgb(199, 144, 144);
+    padding: 15px;
+    border: 5px solid red;
+    /* margin-top: 100px; */
+    margin-right: 5px;
+}
+.insta{
+    background-color: rgb(199, 144, 144);
+    padding: 55px;
+    /* outline-width: 5px;
+    outline-color: red;
+    outline-style: solid; */
+    margin-left: 15px;
+    outline: 5px solid red;
+    outline-offset: -15px;
+}
+.button{
+    margin: 200px 100px;
+}
