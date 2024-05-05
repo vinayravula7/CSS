@@ -1,0 +1,12 @@
+body{
+    color: mediumblue;
+}
+h1{
+    color: red;
+}
+#id{
+    color: orange;
+}
+.class1{
+    color: rgb(236, 48, 236);
+}
