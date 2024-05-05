@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.sub{
+    color: rgb(24, 2, 2);
+    padding: 5px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    border: none;
+    font-weight: bolder;
+    background-color: blue;
+    transition: all 0.5s ease ;
+    border: 2px solid blue;
+}
+.sub:hover{
+    background-color: transparent;
+    border: 2px solid blue;
+}
