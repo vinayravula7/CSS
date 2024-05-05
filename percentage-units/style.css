@@ -1,0 +1,12 @@
+/* precentage is based on the parent */
+.parent{
+    height: 550px;
+    width: 750px;
+    background-color: green;
+
+}
+h1{
+    height: 50%;
+    width: 40%;
+    background-color: red;
+}
