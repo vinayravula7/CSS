@@ -1,0 +1,26 @@
+div{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 10px;
+    transition: all 1.5s;
+    margin-left: 250px;
+    color: white;
+}
+div:hover{
+   transform: translateX(100px);
+}
+.two{
+    transition-timing-function: ease-in;
+}
+.three{
+    transition-timing-function: linear;
+}
+.four{
+    transition-timing-function: ease-in-out;
+}
+.five{
+    transition-timing-function: ease;
+}
