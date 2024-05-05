@@ -1,0 +1,15 @@
+div{
+    height: 300px;
+    width: 33.333%;
+    float: left;
+    color: white;
+}
+.one{
+    background-color: blue;
+}
+.two{
+    background-color: orange;
+}
+.three{
+    background-color: orangered;
+}
