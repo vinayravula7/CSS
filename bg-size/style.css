@@ -1,0 +1,9 @@
+body{
+    background: url("../images/laptop.jpg");
+    background-size: cover;
+    /* cover the  image based in element size */
+    /* contain means take image original size */
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+
+}
