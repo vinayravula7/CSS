@@ -1,0 +1,15 @@
+/* Selector Specificity: (0, 1, 0) */
+/* it give third prority to element */
+.vinay{
+    color: red;
+}
+/* Selector Specificity: (0, 0, 1) */
+/* it give second prority to class */
+h1{
+    color: green;
+}
+/* Selector Specificity: (1, 0, 0) */
+/* it give first prority to id */
+#vinay{
+    color: rgba(207, 165, 244, 0.934);
+}
