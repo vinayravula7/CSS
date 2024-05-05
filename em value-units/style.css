@@ -1,0 +1,17 @@
+/* <!-- body default font size 16px -->
+<!-- em is depend on the parent values --> */
+/* .relative{
+    font-size: 2rem;
+}
+.absolute{
+    font-size: 32px;
+} */
+div{
+    font-size: 10px;
+}
+.ab{
+    font-size: 30px;
+}
+.re{
+    font-size: 3em;
+}
