@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    background-color: lightblue;
+    color: rgb(54, 35, 35);
+    padding: 5px ;
+}
+h3{
+    background-color: bisque;
+    text-align: center;
+    padding: 5px ;
+}
+p{
+    text-align: left;
+}
+
+@media screen and (max-width: 350px){
+    h1{
+        text-align: left;
+        background-color: lightblue;
+        color: rgb(54, 35, 35);
+        padding: 5px ;
+    }
+    h3{
+        background-color: bisque;
+        text-align: left;
+        padding: 5px ;
+    }
+    p{
+        text-align: left;
+    }
+}
